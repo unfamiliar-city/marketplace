@@ -6,6 +6,7 @@ Local skills from people who know the territory.
 
 ```
 /plugin marketplace add unfamiliar-city/marketplace
+/reload-plugins
 ```
 
 ## Available Skills
@@ -15,7 +16,7 @@ Local skills from people who know the territory.
 Durable step function library for LLM data pipelines. Steps cached to SQLite — re-run resumes from the first uncached step. Concurrency, retry, budget tracking built in.
 
 ```
-/plugin install tuff@unfamiliar-city
+/plugin install tuff
 ```
 
 **Use:** `/tuff <describe your pipeline>`
