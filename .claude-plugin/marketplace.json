@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "unfamiliar-city",
+  "description": "Professional skills and utilities for Claude Code",
+  "owner": {
+    "name": "Unfamiliar City"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "homepage": "https://github.com/unfamiliar-city/marketplace"
+  },
+  "plugins": [
+    {
+      "name": "tuff",
+      "source": {
+        "source": "github",
+        "repo": "unfamiliar-city/skill-tuff",
+        "ref": "main"
+      },
+      "description": "Durable step function library for LLM data pipelines. Steps cached to SQLite — re-run resumes from the first uncached step. Concurrency, retry, budget tracking built in.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["LLM", "pipeline", "durable", "SQLite", "orchestration", "fan-out"],
+      "homepage": "https://github.com/unfamiliar-city/skill-tuff"
+    }
+  ]
+}
