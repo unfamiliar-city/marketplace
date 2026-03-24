@@ -13,8 +13,8 @@
     {
       "name": "tuff",
       "source": {
-        "source": "github",
-        "repo": "unfamiliar-city/skill-tuff",
+        "source": "url",
+        "url": "https://github.com/unfamiliar-city/skill-tuff.git",
         "ref": "main"
       },
       "description": "Durable step function library for LLM data pipelines. Steps cached to SQLite — re-run resumes from the first uncached step. Concurrency, retry, budget tracking built in.",
