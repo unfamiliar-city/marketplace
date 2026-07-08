@@ -22,6 +22,19 @@
       "category": "productivity",
       "keywords": ["LLM", "pipeline", "durable", "SQLite", "orchestration", "fan-out"],
       "homepage": "https://github.com/unfamiliar-city/skill-tuff"
+    },
+    {
+      "name": "mindshare-map",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/unfamiliar-city/skill-ai-mindshare-map.git",
+        "ref": "main"
+      },
+      "description": "Maps AI mindshare: which companies ChatGPT recommends, how prominently, and which sources shape the answer. Roleplays audience personas, queries GPT-5.2 under a ChatGPT-like system prompt with web search, builds a competitive leaderboard from answers and citations.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["AI visibility", "GEO", "competitive analysis", "citation analysis", "mindshare"],
+      "homepage": "https://github.com/unfamiliar-city/skill-ai-mindshare-map"
     }
   ]
 }
