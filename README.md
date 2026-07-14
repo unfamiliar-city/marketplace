@@ -23,6 +23,18 @@ Durable step function library for LLM data pipelines. Steps cached to SQLite —
 
 **Repo:** [unfamiliar-city/skill-tuff](https://github.com/unfamiliar-city/skill-tuff)
 
+### glean
+
+A lightweight micro-skill for Claude Code that iteratively extracts signal from noise in chat logs. Loops pass after pass like panning for gold, stopping only once two passes in a row turn up nothing new.
+
+```
+/plugin install glean
+```
+
+**Use:** `/glean`
+
+**Repo:** [unfamiliar-city/skill-glean](https://github.com/unfamiliar-city/skill-glean)
+
 ---
 
 Created by [Unfamiliar City](https://unfamiliarcity.com).

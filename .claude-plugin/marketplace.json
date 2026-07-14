@@ -35,6 +35,19 @@
       "category": "productivity",
       "keywords": ["AI visibility", "GEO", "competitive analysis", "citation analysis", "mindshare"],
       "homepage": "https://github.com/unfamiliar-city/skill-ai-mindshare-map"
+    },
+    {
+      "name": "glean",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/unfamiliar-city/skill-glean.git",
+        "ref": "main"
+      },
+      "description": "A lightweight micro-skill for Claude Code that iteratively extracts signal from noise in chat logs. Loops pass after pass like panning for gold, stopping only once two passes in a row turn up nothing new.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["chat logs", "transcripts", "signal extraction", "session review", "summarization"],
+      "homepage": "https://github.com/unfamiliar-city/skill-glean"
     }
   ]
 }
