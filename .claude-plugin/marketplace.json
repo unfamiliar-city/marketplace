@@ -44,7 +44,7 @@
         "ref": "main"
       },
       "description": "A lightweight micro-skill for Claude Code that iteratively extracts signal from noise in chat logs. Loops pass after pass like panning for gold, stopping only once two passes in a row turn up nothing new.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "keywords": ["chat logs", "transcripts", "signal extraction", "session review", "summarization"],
       "homepage": "https://github.com/unfamiliar-city/skill-glean"
