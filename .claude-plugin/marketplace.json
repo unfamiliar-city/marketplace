@@ -44,7 +44,7 @@
         "ref": "main"
       },
       "description": "A lightweight micro-skill that pans chat logs and transcripts for signal. Pass after pass it adds what was missed and corrects what was wrong, stopping once two passes in a row change nothing.",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "category": "productivity",
       "keywords": ["chat logs", "transcripts", "signal extraction", "session review", "summarization"],
       "homepage": "https://github.com/unfamiliar-city/skill-pan"
